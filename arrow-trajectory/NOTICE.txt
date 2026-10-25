@@ -1,0 +1,5 @@
+Copyright (C) 2026 wuruoye
+
+本包中的自制 Mod、适配器及构建工具按 GPL-3.0 提供。游戏原始指令及第三方 Mod 的权利不因本声明改变。游戏程序、WiiXLaunch 宿主和 UltraCam 由使用者自行提供，源码包不包含这些程序。
+
+构建依赖通过独立工具安装，不随包分发：Zig 0.14.1、Capstone、Keystone Engine。WiiXLaunch 为独立运行依赖，遵循其上游 GPL-3.0 许可。
