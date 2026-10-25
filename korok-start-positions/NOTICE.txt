@@ -1,0 +1,13 @@
+Korok Start Positions 1.0.0
+Custom generator: Copyright (c) 2026 wuruoye, MIT License.
+
+The Windows package contains Zstandard 1.5.7 (libzstd.dll).
+Copyright (c) Meta Platforms, Inc. and affiliates. All rights reserved.
+Distributed under the BSD license in LICENSE-Zstandard.txt.
+Upstream source: https://github.com/facebook/zstd/tree/v1.5.7
+
+starts.patch contains only numeric coordinate-field changes for a locally
+provided game map table. It is not a complete game resource and cannot be
+used without the matching original input. No game executable, compression
+dictionary, original map table, save data, or third-party map display module
+is included. Rights in original game content remain with their owners.

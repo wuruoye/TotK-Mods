@@ -1,0 +1,13 @@
+{
+  "format": "KSTART01",
+  "version": "1.0.0",
+  "game_version": "1.4.3",
+  "ordinary_markers": 800,
+  "carry_groups": 100,
+  "float_fields": 2700,
+  "resource": "Banc/MainField/HiddenKorok/MainField.hiddenkorok.byml.zs",
+  "original_raw_crc32": "8A04BF6E",
+  "output_raw_crc32": "2C0367D3",
+  "output_compressed_crc32": "734184E8",
+  "compression": "Zstandard 1.5.7, dictionary from local game, level 19"
+}

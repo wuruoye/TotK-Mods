@@ -14,6 +14,7 @@
 | 马匹属性 | 在相机画面中查看马匹属性 |
 | 地图标记 | 显示呀哈哈、洞窟、水井与深穴，调整完成标记和缩放显示 |
 | 地图高度与收集引导 | 显示目标的高度方向，以及魔犹伊、图纸等收集目标 |
+| 呀哈哈起点坐标 | 将 800 个普通呀哈哈和 100 组搬运任务的标记定位到机关入口或操作对象 |
 | 便利功能 | 调整耐久、材料与消耗品保留、射箭等行为 |
 | 装备融合支持 | 恢复部分装备的原生单材料融合支持 |
 | 箭矢轨迹 | 显示预计轨迹和落点；试验版，远距离可能存在偏差 |
@@ -30,6 +31,8 @@
 [弓箭轨迹 0.0.13](https://github.com/wuruoye/TotK-Mods/releases/tag/arrow-trajectory-v0.0.13)现已提供[可直接安装的 ZIP](https://github.com/wuruoye/TotK-Mods/releases/download/arrow-trajectory-v0.0.13/arrow-trajectory-totk143-v0.0.13.zip)，支持林克时间的完整引导线和落点显示。关闭游戏，将解压得到的 `Arrow Trajectory 1.4.3` 文件夹放入游戏 Mod 目录，再重启游戏。需要先准备发布页所列的 WiiXLaunch 1664 KiB 前置。
 
 同页保留对应源码，供开发和自行构建使用；仅安装预编译包无需自行编译。
+
+[呀哈哈起点坐标补丁 1.0.0](https://github.com/wuruoye/TotK-Mods/releases/tag/korok-start-positions-v1.0.0)提供 [Windows 生成工具](https://github.com/wuruoye/TotK-Mods/releases/download/korok-start-positions-v1.0.0/korok-start-positions-totk143-v1.0.0-windows.zip)和[对应源码](https://github.com/wuruoye/TotK-Mods/releases/download/korok-start-positions-v1.0.0/korok-start-positions-totk143-v1.0.0-source.zip)。选择自己的原版 1.4.3 RomFS 和空输出文件夹，即可生成 Mod，无需 Python 或自行编译。需要兼容的未完成呀哈哈地图显示 Mod；本包只调整坐标，不包含地图显示模块或完整游戏资源。详细安装与兼容说明见[包内说明](korok-start-positions/README.md)。
 
 其他功能的公开版本见 [Releases](https://github.com/wuruoye/TotK-Mods/releases)，以对应版本说明和附件为准。
 
