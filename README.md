@@ -27,7 +27,9 @@
 
 ## 下载与安装
 
-[弓箭轨迹 0.0.13 源码构建版](https://github.com/wuruoye/TotK-Mods/releases/tag/arrow-trajectory-v0.0.13)现已公开，支持林克时间的完整引导线和落点显示。请按[源码与构建说明](arrow-trajectory/README.md)使用自己的输入在本地生成模块。本次公开附件仅含源码和构建工具，未提供预编译安装包。
+[弓箭轨迹 0.0.13](https://github.com/wuruoye/TotK-Mods/releases/tag/arrow-trajectory-v0.0.13)现已提供[可直接安装的 ZIP](https://github.com/wuruoye/TotK-Mods/releases/download/arrow-trajectory-v0.0.13/arrow-trajectory-totk143-v0.0.13.zip)，支持林克时间的完整引导线和落点显示。关闭游戏，将解压得到的 `Arrow Trajectory 1.4.3` 文件夹放入游戏 Mod 目录，再重启游戏。需要先准备发布页所列的 WiiXLaunch 1664 KiB 前置。
+
+同页保留对应源码，供开发和自行构建使用；仅安装预编译包无需自行编译。
 
 其他功能的公开版本见 [Releases](https://github.com/wuruoye/TotK-Mods/releases)，以对应版本说明和附件为准。
 
